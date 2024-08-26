@@ -1,4 +1,5 @@
 # Educa2024
 
-tere
-![alt text](image/image.webp)
+เอกสารวิธีการลงทะเบียน และชำระค่าอบรม กิจกรรม EDUCA 2024 มหกรรมทางการศึกษาเพื่อการพัฒนาวิชาชีพครู ประจำปี 2567 
+
+[User Manual EDUCA2024](<User Manual EDUCA2024.md>)
