@@ -20,7 +20,7 @@
 ## EDUCA 2024
 #### ช่องทางการเข้าสู่เว็บไซต์สำหรับลงทะเบียน และ อบรม EDUCA 2024
 
-- กดที่ลิ้งค์ [EDUCA2024]
+- กดที่ลิ้งค์ [EDUCA2024](https://event.educathai.com/educa2024)
 - เข้าผ่าน Web Browser เว็บไซต์ https://event.educathai.com/educa2024
 - เข้าผ่าน Banner EDUCA 2024 จากเว็บไซต์ [educathai.com] แล้วกดลิ้งค์ Banner ดังรูป 1.1
 - เข้าผ่านปุ่ม Login จากเว็บไซต์ [educathai.com]
