@@ -1,6 +1,6 @@
 
 
-# User Mannual EDUCA2024
+# User Manual EDUCA2024
 ## วิธีการลงทะเบียน และชำระค่าอบรม กิจกรรม EDUCA 2024
 
 ![Logo](https://educathai.com/images/favicon-196x196.png)
@@ -135,12 +135,17 @@ EDUCA 2024 มี 2 Package ให้เลือก ได้แก่
 1. กดเลือกเมนู `Tickets` เพื่อไปยังหน้า Tickets
 2. กดเลือก Package ที่ต้องการสมัคร และกดปุ่ม `BUY TICKET` ภายใน Package นั้น
     - EDUCA 2024 Online 
+
         <img src="image/ticket-online.png" width="550">
+
     - The Principal Forum Onsite
+
         <img src="image/ticket-online.png" width="550">
+
 > [!TIP]
 > หากเลือก Package The Principal Forum Onsite ในช่อง กรุณาเลือกหัวข้ออบรม "การประชุมกลุ่มผู้อำนวยการผู้นำ 2/2024 (18 ตุลาคม 2567): สร้างผู้นำ สร้างอนาคต มุ่งสู่การพัฒนาโรงเรียนทั้งระบบ" ต้องเป็นสีน้ำเงินตามรูปก่อน จึงจะสามารถกดปุ่มชำระเงินได้
 > หากเป็นสีขาวให้ทำการกดที่ช่อง กรุณาเลือกหัวข้ออบรม พื้นหลังจะเปลื่ยนเป็นสีฟ้า จากนั้นให้กดปุ่มชำระเงิน เพื่อไปต่อ
+>
 > <img src="image/Order-onsite.png" width="300">
 
 3. หน้า Order Summary จะแสดงรายละเอียดของ Package ที่เลือกกรุณาตรวจสอบข้อมูลโดยละเอียด
