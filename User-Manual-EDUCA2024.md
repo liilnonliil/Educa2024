@@ -127,7 +127,7 @@ EDUCA 2024 มี 2 Package ให้เลือก ได้แก่
 
 > [!TIP]
 > - การเลือกแพ็กเกจ ว่าควรเลือกอย่างใดอย่างหนึ่งเท่านั้น ในราคา 320 บาท
-> - Package EDUCA 2024 Online จะสามารถดู The Principal Forum Onsite ย้อนหลังได้ในช่องทางออนไลน์ของเว็บไซต์ [EDUCA2024](https://event.educathai.com/educa2024)
+> - Package EDUCA 2024 Online จะสามารถดู EDUCA 2024 Online ทั้งหมดได้ในช่องทางออนไลน์ของเว็บไซต์ [EDUCA2024](https://event.educathai.com/educa2024)
 > - Package The Principal Forum Onsite มีที่นั่งจำกัด สามารถดู EDUCA 2024 Online ทั้งหมดได้ในช่องทางออนไลน์ของเว็บไซต์ [EDUCA2024](https://event.educathai.com/educa2024)
 
 
